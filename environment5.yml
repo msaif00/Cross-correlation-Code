@@ -1,0 +1,14 @@
+name: pymc3-clone2
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - numpy
+  - psutil
+  - toolz
+  - matplotlib
+  - dill
+  - pandas
+  - partd
+  - bokeh
+  - dask
