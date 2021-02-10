@@ -17,7 +17,6 @@ cycler==0.10.0
 decorator==4.4.2
 emcee==3.0.2
 Equation==1.2.1
-fastprocess==2.0.0
 fastprogress==1.0.0
 future==0.18.2
 h5py==3.0.0
