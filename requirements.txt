@@ -32,9 +32,6 @@ lmfit==1.0.1
 lxml==4.5.2
 macholib==1.14
 matplotlib==3.3.1
-mkl-fft==1.2.0
-mkl-random==1.1.1
-mkl-service==2.3.0
 modulegraph==0.18
 more-itertools @ file:///tmp/build/80754af9/more-itertools_1605111547926/work
 netCDF4==1.5.4
