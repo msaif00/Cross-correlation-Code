@@ -31,7 +31,7 @@ llvmlite==0.34.0
 lmfit==1.0.1
 lxml==4.5.2
 macholib==1.14
-matplotlib @ file:///opt/concourse/worker/volumes/live/24f995ab-f0a7-4bf7-4b0e-ea68b1f7e8f7/volume/matplotlib-base_1597876350104/work
+matplotlib==3.3.1
 mkl-fft==1.2.0
 mkl-random==1.1.1
 mkl-service==2.3.0
