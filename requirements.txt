@@ -17,4 +17,3 @@ scipy==1.5.0
 pandas==1.1.1
 setuptools==50.3.2
 requests==2.24.0
-bs4==4.9.1
