@@ -22,7 +22,6 @@ future==0.18.2
 h5py==3.0.0
 html2text==2020.1.16
 idna @ file:///tmp/build/80754af9/idna_1593446292537/work
-iniconfig @ file:///tmp/build/80754af9/iniconfig_1602780191262/work
 ipynb-py-convert==0.4.6
 ipython==7.19.0
 ipython-genutils==0.2.0
