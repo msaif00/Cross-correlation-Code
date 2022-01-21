@@ -2,7 +2,7 @@ arviz==0.10.0
 astropy==4.0.2
 emcee==3.0.2
 future==0.18.2
-ipython==7.19.0
+ipython==7.31.1
 lmfit==1.0.1
 pymc3==3.9.3
 seaborn==0.11.0
